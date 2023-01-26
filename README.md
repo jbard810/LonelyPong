@@ -1,3 +1,3 @@
-# Coursework 2
+# Lonely Pong
 
-This is the branch that hosts the files for my game. 
+The game can be ran through the main_game script. Note that Tkinter and Pillow are needed to run the game.
