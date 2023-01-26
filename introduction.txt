@@ -1,0 +1,12 @@
+                                  Welcome to Lonely Pong!
+
+As a single player spin on the original Atari game, the objective is to use the paddle (with the left and right keys) to keep the ball within the upper region of the game for as long as you can. Each of the paddle-ball interactions results in an increase in player score. The ball will increase in speed after each interaction with the paddle. Here is a brief list of some of its functionalities:
+
+- Fill in your name to be included for consideration on the leaderboard!
+- The top 10 scorers at any given time will be displayed
+- Several cheat codes (ctrl-s and ctrl-down_key)
+- A boss key (ctrl-b)
+- You can also change the color of the ball using the selection prior selection menu
+- Robust pause and save features
+
+Good luck :)
